@@ -84,6 +84,7 @@ body{
 .img-blog img{
     width: 250px;
     height: 150px;
+    object-fit: contain;
 }
 /*.img-blog:hover{
     transform: rotate(20deg);
